@@ -1,0 +1,12 @@
+# Project exclude paths
+/project/target/
+/target/
+/target/scala-3.3.4/classes/
+/target/scala-3.3.4/test-classes/
+
+# Intellij
+*.iml
+*.ipr
+*.iws
+.idea
+out
